@@ -19,7 +19,7 @@ While I am still trying to get used to the language, I have somewhat successfull
 ---
 
 ### Running with Docker
-1. **Build the image:**
+**Build the image:**
    ```bash
    docker build -t rick-morty-app .
    ```
